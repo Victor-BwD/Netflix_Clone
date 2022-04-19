@@ -6,7 +6,7 @@ export default ({black}) => {
         <header className={black ? 'black': ''}>
             <div className="header--logo">
                 <a href="/">
-                    <img src="https://play-lh.googleusercontent.com/0rgPYj0GwZ6txpYZrzoMdhwzqg7vY6C9B-Ol7jlaz-Ox2rgpD4Tr82ZgDqkirrEohbGm" alt="netflix"></img>
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Netflix_logo.svg/1280px-Netflix_logo.svg.png" alt="netflix"></img>
                 </a>
             </div>
 
